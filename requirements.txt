@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+statsmodels
+torch            # if you need PyTorch in TS_Generator
+tensorflow       # for your RNN code
+dcor
